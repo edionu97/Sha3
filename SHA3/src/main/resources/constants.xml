@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<constants>
+    <rejected-file-name>.rejected</rejected-file-name>
+    <rejected-file-type>dos:hidden</rejected-file-type>
+    <main-directory-absolute-location>---eneter the folder you want to monitor----</main-directory-absolute-location>
+</constants>
